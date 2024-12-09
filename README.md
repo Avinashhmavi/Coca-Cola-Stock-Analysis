@@ -2,7 +2,7 @@
 
 Analysis of Coca cola stock data using Python and Jupyter Notebook
 
-[![Open Coca Cola Company Website](https://www.coca-colacompany.com)]
+[![Open Coca Cola Company Website](https://www.coca-colacompany.com)](https://www.coca-colacompany.com)
 
 Project Overview
 
